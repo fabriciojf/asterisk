@@ -249,6 +249,10 @@ Welcome to the growing worldwide community of Asterisk users!
         Mark Spencer, and the Asterisk.org development community
 ```
 
+## Templates / Samples
+
+ - https://github.com/fabriciojf/asterisk/tree/master/configs/samples
+
 ---
 
 Asterisk is a trademark of Digium, Inc.
